@@ -2,8 +2,8 @@
 ESP - Relay controlled Device
 
 
-Simple boiler temperature control project
-PCB images is here
+Simple boiler temperature control project.
+PCB images are here
 
 
 Client Pcb
